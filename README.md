@@ -1,2 +1,2 @@
 # metadataScraper
-Scrape metada on URL - display Image, Title and description
+Xamarin forms Scrape metadata on URL - display Image, Title and description
