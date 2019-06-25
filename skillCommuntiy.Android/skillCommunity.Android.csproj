@@ -99,7 +99,7 @@
   <ItemGroup>
     <ProjectReference Include="..\skillCommuntiy\skillCommuntiy.csproj">
       <Project>{763936F1-0F32-4B6C-84E8-4BA40E240FF2}</Project>
-      <Name>skillCommuntiy</Name>
+      <Name>skillCommunity</Name>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
